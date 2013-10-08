@@ -1,0 +1,5 @@
+http://fabricjs.com/ - svg canvas
+
+http://chartjs.devexpress.com/ - HTML5 JS Chart and Gauge Widgets
+
+http://paperjs.org/ - охуенная вещь
